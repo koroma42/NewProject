@@ -1,0 +1,13 @@
+NAMES				GRADES
+
+John				50
+
+Mary				89
+
+Peter				66
+
+Frank				33
+
+Jane				55
+
+Dominic			67
