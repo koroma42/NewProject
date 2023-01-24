@@ -1,6 +1,6 @@
 Subject				Grades
 
-Project.M				A
+Project.M				B
 
 Logic.D				B
 

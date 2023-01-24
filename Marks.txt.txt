@@ -1,6 +1,6 @@
 NAMES				GRADES
 
-John				A
+John				C
 
 Mary				B
 
